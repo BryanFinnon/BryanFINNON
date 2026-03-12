@@ -58,5 +58,5 @@ Passionate about building intelligent systems and scalable software solutions. I
 
 ## 📫 Let's Connect
 - 📧 **Email:** [Finnonbryan7@gmail.com](mailto:Finnonbryan7@gmail.com) 
-- 💼 **LinkedIn:** [In Bryan Finnon](https://www.linkedin.com/in/BryanFinnon) 
+- 💼 **LinkedIn:** [In Bryan Finnon](https://www.linkedin.com/in/bryan-finnon-a07057255) 
 - 📍 **Location:** London, SE10 8GS 
