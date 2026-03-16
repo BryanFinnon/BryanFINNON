@@ -34,21 +34,29 @@ Passionate about building intelligent systems and scalable software solutions. I
 
 ## 🌟 Featured Projects
 
-### 🤖 [NLP] Fine-Tuning FlauBERT for Informal French
-*Developed a multi-stage training strategy (DAFT & STS) to process non-standard linguistic patterns.*
-- **Key Result:** Improved model accuracy by **150%** (Spearman/Pearson from 0.3 to 0.8).
-- **Scale:** Engineered a custom dataset of **110,000 elements** from scratch.
+### 🤖 [NLP] Fine-Tuning FlauBERT for Informal French 
+*Developed a domain-adaptive fine-tuning (DAFT) strategy to process non-standard linguistic patterns in informal French.*
+*  **Key Result**: Improved model correlation scores from **0.3 to 0.8 (+160%)** through iterative experimentation.
+*  **Scale**: Engineered and cleaned a custom dataset of **110,000+ text samples** using advanced preprocessing pipelines.
+*  **Tech Stack**: Python, Transformers (FlauBERT), Scikit-learn.
 
 ### ✈️ [Predictive Analytics] Flight Bag Rescue Early-Warning System
-*Built a risk-scoring tool to predict luggage loss at high-congestion transit hubs.*
-- **Impact:** Enabled real-time rerouting of handling priorities, reducing operational costs].
-- **Model:** Logistic Regression with custom "hub congestion" feature engineering.
+*Built a risk-scoring tool to predict luggage delays at high-congestion transit hubs using logistic regression.*
+*  **Data Integration**: Processed **7K+ tracking records** and integrated **3+ operational datasets** (logs, schedules, metrics).
+*  **Feature Engineering**: Developed **5+ predictive features**, including hub congestion indicators and transfer-window duration.
+*  **Tech Stack**: Python, Scikit-learn, Pandas.
 
-### 🎙️ [Speech-to-Text] Transformer-based Transcription
-*Optimized a multilingual NLP model for low-latency transcription.*
-- **Key Achievement:** 20pp boost in transcription accuracy and real-time integration.
+### 🎙️ [Speech-to-Text] Multilingual Transformer Transcription
+*Optimized a transformer-based system for real-time multilingual audio transcription.*
+*  **Robustness**: Applied data augmentation techniques to significantly improve transcription accuracy across multiple languages.
+*  **Deployment**: Integrated the model into a functional web interface to provide real-time transcription for end-users.
+*  **Tech Stack**: Python, NLP Transformers, React.
 
----
+### 🎫 [Full-Stack] Airline Travel Management Platform
+ *Developed a comprehensive booking system enabling flight search, reservation management, and itinerary tracking*
+*  **Architecture**: Designed and modeled **5+ relational database tables** to manage complex flight and passenger data.
+*  **Frontend**: Built **4+ responsive UI components** for seamless booking and search workflows.
+*  **Tech Stack**: React, PHP, SQL, REST APIs.
 
 ## 📊 GitHub Stats
 ![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanFinnon&show_icons=true&theme=transparent)
@@ -59,4 +67,4 @@ Passionate about building intelligent systems and scalable software solutions. I
 ## 📫 Let's Connect
 - 📧 **Email:** [Finnonbryan7@gmail.com](mailto:Finnonbryan7@gmail.com) 
 - 💼 **LinkedIn:** [In Bryan Finnon](https://www.linkedin.com/in/bryan-finnon-a07057255) 
-- 📍 **Location:** London, SE10 8GS 
+- 📍 **Location:** London,UK
