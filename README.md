@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bryan Koutoua  Finnon
+# Hi, I'm Bryan Koutoua  Finnon
 
 ### 🚀 Machine Learning Engineer | Software Developer | MSc Computer Science
 Passionate about building intelligent systems and scalable software solutions. I bridge the gap between complex data research and production-ready applications.
@@ -58,9 +58,6 @@ Passionate about building intelligent systems and scalable software solutions. I
 *  **Frontend**: Built **4+ responsive UI components** for seamless booking and search workflows.
 *  **Tech Stack**: React, PHP, SQL, REST APIs.
 
-## 📊 GitHub Stats
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanFinnon&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanFinnon&layout=compact&theme=transparent)
 
 ---
 
