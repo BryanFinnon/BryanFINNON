@@ -1,67 +1,45 @@
-# Hi, I'm Bryan Koutoua  Finnon
+# Bryan Finnon
 
-### 🚀 Machine Learning Engineer | Software Developer | MSc Computer Science
-Passionate about building intelligent systems and scalable software solutions. I bridge the gap between complex data research and production-ready applications.
+**Junior Applied AI & Software Engineer**  
+MSc Computer Science (Distinction) · United Kingdom
 
-- 🎓 **MSc Computer Science (Distinction)** from Ravensbourne University London.
-- 🌍 Based in **London, UK**.
-- 🇫🇷|🇬🇧 Bilingual **French (Native)** & **English (Fluent)**.
+I build practical software across applied AI, full-stack engineering, and data. My recent work covers media workflows, natural-language processing, speech recognition, and operational web platforms.
 
----
+## Featured projects
 
-## 🛠️ Technical Stack (Industry Relevant)
+### [E-MEDIA Platform](https://github.com/BryanFinnon/e-media-platform)
 
-### 🧠 Data Science & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-Transformers-blue?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-orange?style=for-the-badge)
+Production-style TypeScript media platform with strict typing, automated quality checks, 35 unit tests, and a live deployment.
 
+### [Fine-Tuning FlauBERT for Informal French](https://github.com/BryanFinnon/Fine-Tuning-FlauBERT-for-Informal-French)
 
-### 🎧 Audio & Signal Intelligence
-![Librosa](https://img.shields.io/badge/librosa-gray?style=for-the-badge) ![Torchaudio](https://img.shields.io/badge/Torchaudio-%23EE4C2C?style=for-the-badge&logo=pytorch) ![Speech-to-Text](https://img.shields.io/badge/STT-Whisper-blue?style=for-the-badge)
+NLP research prototype exploring semantic similarity for informal French. The documented experiment improved Spearman correlation from 0.32 to 0.81 on its evaluation setup.
 
-### 💻 Software & Web Engineering
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
----
+### [Multilingual Speech-to-Text with Whisper](https://github.com/BryanFinnon/-Speech-to-Text-Multilingual-Transformer-Transcription)
 
-## 🌟 Featured Projects
+Multilingual transcription prototype combining Whisper experiments, WER evaluation, WAV-to-SRT generation, and a React/Vite interface.
 
-### 🤖 [NLP] Fine-Tuning FlauBERT for Informal French 
-*Developed a domain-adaptive fine-tuning (DAFT) strategy to process non-standard linguistic patterns in informal French.*
-*  **Key Result**: Improved model correlation scores from **0.3 to 0.8 (+160%)** through iterative experimentation.
-*  **Scale**: Engineered and cleaned a custom dataset of **110,000+ text samples** using advanced preprocessing pipelines.
-*  **Tech Stack**: Python, Transformers (FlauBERT), Scikit-learn.
+### [Full-Stack Airline Travel Management Platform](https://github.com/BryanFinnon/-Full-Stack-Airline-Travel-Management-Platform)
 
-### ✈️ [Predictive Analytics] Flight Bag Rescue Early-Warning System
-*Built a risk-scoring tool to predict luggage delays at high-congestion transit hubs using logistic regression.*
-*  **Data Integration**: Processed **7K+ tracking records** and integrated **3+ operational datasets** (logs, schedules, metrics).
-*  **Feature Engineering**: Developed **5+ predictive features**, including hub congestion indicators and transfer-window duration.
-*  **Tech Stack**: Python, Scikit-learn, Pandas.
+Full-stack airline operations project covering a web interface, API integration, and travel-management workflows.
 
-### 🎙️ [Speech-to-Text] Multilingual Transformer Transcription
-*Optimized a transformer-based system for real-time multilingual audio transcription.*
-*  **Robustness**: Applied data augmentation techniques to significantly improve transcription accuracy across multiple languages.
-*  **Deployment**: Integrated the model into a functional web interface to provide real-time transcription for end-users.
-*  **Tech Stack**: Python, NLP Transformers, React.
+## Other work
 
-### 🎫 [Full-Stack] Airline Travel Management Platform
- *Developed a comprehensive booking system enabling flight search, reservation management, and itinerary tracking*
-*  **Architecture**: Designed and modeled **5+ relational database tables** to manage complex flight and passenger data.
-*  **Frontend**: Built **4+ responsive UI components** for seamless booking and search workflows.
-*  **Tech Stack**: React, PHP, SQL, REST APIs.
+- [ABC Airline](https://github.com/BryanFinnon/abc_airline) — Django and React airline management prototype.
+- [Decentralised Storage dApp](https://github.com/BryanFinnon/storage-dapp) — exploratory Web3 storage architecture.
+- [Flight Bag Rescue](https://github.com/BryanFinnon/Flight-Bag-Rescue-Early-Warning-System) — documentation-stage early-warning system concept; implementation in progress.
 
+## Technical toolkit
 
----
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI/ML:** PyTorch, Hugging Face Transformers, Whisper, NLP evaluation
+- **Web:** React, Django, REST APIs, Node.js
+- **Engineering:** Git, GitHub Actions, automated testing, CI, Docker fundamentals
 
-## 📫 Let's Connect
-- 📧 **Email:** [Finnonbryan7@gmail.com](mailto:Finnonbryan7@gmail.com) 
-- 💼 **LinkedIn:** [In Bryan Finnon](https://www.linkedin.com/in/bryan-finnon-a07057255) 
-- 📍 **Location:** London,UK
+## Availability
+
+Open to UK-based junior software engineering and applied AI opportunities.
+
+## Contact
+
+Connect with me through [LinkedIn](https://www.linkedin.com/in/bryan-finnon-226b51203/).
