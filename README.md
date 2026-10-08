@@ -11,8 +11,8 @@ I build practical software that combines applied AI, data and full-stack enginee
 |---|---|---|
 | [E-MEDIA Platform](https://github.com/BryanFinnon/e-media-platform) | A production-oriented media services platform with booking, administration and automated quality checks | Next.js, TypeScript, Supabase, Cloudflare |
 | [Informal French Similarity](https://github.com/BryanFinnon/Fine-Tuning-FlauBERT-for-Informal-French) | Fine-tuning and evaluating FlauBERT for semantic similarity in informal French | Python, PyTorch, Transformers, Streamlit |
-| [Multilingual Speech-to-Text](https://github.com/BryanFinnon/-Speech-to-Text-Multilingual-Transformer-Transcription) | Whisper fine-tuning, WER evaluation, subtitle generation and browser-based transcription | Python, Whisper, JAX, React |
-| [Airline Travel Management Platform](https://github.com/BryanFinnon/-Full-Stack-Airline-Travel-Management-Platform) | End-to-end flight search, reservations and itinerary workflows | React, PHP, MySQL |
+| [Multilingual Speech-to-Text](https://github.com/BryanFinnon/multilingual-speech-to-text) | Whisper fine-tuning, WER evaluation, subtitle generation and browser-based transcription | Python, Whisper, JAX, React |
+| [Airline Travel Management Platform](https://github.com/BryanFinnon/airline-travel-management-platform) | End-to-end flight search, reservations and itinerary workflows | React, PHP, MySQL |
 
 ## Technical skills
 
