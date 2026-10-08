@@ -1,7 +1,7 @@
 # Bryan Finnon
 
-**Junior Applied AI & Full-Stack Developer**  
-MSc Computer Science (Distinction) · London, United Kingdom
+**MSc Computer Science (Distinction) | Junior Applied AI & Full-Stack Developer | NLP, Python & TypeScript**  
+London, United Kingdom
 
 I build practical software that combines applied AI, data and full-stack engineering. My portfolio includes production-oriented web platforms, NLP research, speech recognition experiments and operational management systems.
 
