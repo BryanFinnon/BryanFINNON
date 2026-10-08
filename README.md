@@ -1,45 +1,34 @@
 # Bryan Finnon
 
-**Junior Applied AI & Software Engineer**  
-MSc Computer Science (Distinction) · United Kingdom
+**Junior Applied AI & Full-Stack Developer**  
+MSc Computer Science (Distinction) · London, United Kingdom
 
-I build practical software across applied AI, full-stack engineering, and data. My recent work covers media workflows, natural-language processing, speech recognition, and operational web platforms.
+I build practical software that combines applied AI, data and full-stack engineering. My portfolio includes production-oriented web platforms, NLP research, speech recognition experiments and operational management systems.
 
 ## Featured projects
 
-### [E-MEDIA Platform](https://github.com/BryanFinnon/e-media-platform)
+| Project | What it demonstrates | Core stack |
+|---|---|---|
+| [E-MEDIA Platform](https://github.com/BryanFinnon/e-media-platform) | A production-oriented media services platform with booking, administration and automated quality checks | Next.js, TypeScript, Supabase, Cloudflare |
+| [Informal French Similarity](https://github.com/BryanFinnon/Fine-Tuning-FlauBERT-for-Informal-French) | Fine-tuning and evaluating FlauBERT for semantic similarity in informal French | Python, PyTorch, Transformers, Streamlit |
+| [Multilingual Speech-to-Text](https://github.com/BryanFinnon/-Speech-to-Text-Multilingual-Transformer-Transcription) | Whisper fine-tuning, WER evaluation, subtitle generation and browser-based transcription | Python, Whisper, JAX, React |
+| [Airline Travel Management Platform](https://github.com/BryanFinnon/-Full-Stack-Airline-Travel-Management-Platform) | End-to-end flight search, reservations and itinerary workflows | React, PHP, MySQL |
 
-Production-style TypeScript media platform with strict typing, automated quality checks, 35 unit tests, and a live deployment.
+## Technical skills
 
-### [Fine-Tuning FlauBERT for Informal French](https://github.com/BryanFinnon/Fine-Tuning-FlauBERT-for-Informal-French)
+- **Languages:** Python, TypeScript, JavaScript, SQL, PHP
+- **AI & data:** PyTorch, Hugging Face Transformers, Whisper, NLP evaluation, pandas
+- **Web:** Next.js, React, Django REST Framework, REST APIs, Supabase
+- **Engineering:** Git, GitHub Actions, automated testing, CI/CD, Cloudflare
 
-NLP research prototype exploring semantic similarity for informal French. The documented experiment improved Spearman correlation from 0.32 to 0.81 on its evaluation setup.
+## Additional projects
 
-### [Multilingual Speech-to-Text with Whisper](https://github.com/BryanFinnon/-Speech-to-Text-Multilingual-Transformer-Transcription)
-
-Multilingual transcription prototype combining Whisper experiments, WER evaluation, WAV-to-SRT generation, and a React/Vite interface.
-
-### [Full-Stack Airline Travel Management Platform](https://github.com/BryanFinnon/-Full-Stack-Airline-Travel-Management-Platform)
-
-Full-stack airline operations project covering a web interface, API integration, and travel-management workflows.
-
-## Other work
-
-- [ABC Airline](https://github.com/BryanFinnon/abc_airline) — Django and React airline management prototype.
-- [Decentralised Storage dApp](https://github.com/BryanFinnon/storage-dapp) — exploratory Web3 storage architecture.
-- [Flight Bag Rescue](https://github.com/BryanFinnon/Flight-Bag-Rescue-Early-Warning-System) — documentation-stage early-warning system concept; implementation in progress.
-
-## Technical toolkit
-
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **AI/ML:** PyTorch, Hugging Face Transformers, Whisper, NLP evaluation
-- **Web:** React, Django, REST APIs, Node.js
-- **Engineering:** Git, GitHub Actions, automated testing, CI, Docker fundamentals
-
-## Availability
-
-Open to UK-based junior software engineering and applied AI opportunities.
+- [ABC Airline](https://github.com/BryanFinnon/abc_airline) — Django REST and React airline operations prototype
+- [Storage dApp](https://github.com/BryanFinnon/storage-dapp) — blockchain-enabled order and delivery workflow prototype
+- [Flight Bag Rescue](https://github.com/BryanFinnon/Flight-Bag-Rescue-Early-Warning-System) — early-warning system design concept
 
 ## Contact
 
-Connect with me through [LinkedIn](https://www.linkedin.com/in/bryan-finnon-226b51203/).
+I am open to junior software engineering, full-stack and applied AI opportunities in the UK.
+
+[LinkedIn](https://www.linkedin.com/in/bryan-finnon-226b51203/) · [GitHub](https://github.com/BryanFinnon)
